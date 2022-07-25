@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prime Checker</string>
+    <string name="type_number_here">Type number here</string>
+    <string name="is_it_prime">Is it prime?</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+</resources>
